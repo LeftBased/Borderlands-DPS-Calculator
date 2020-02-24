@@ -1,0 +1,9 @@
+D:\VisualC Projects\Borderlands_DPS_Calculator\Borderlands_DPS_Calculator\bin\Debug\Borderlands_DPS_Calculator.exe.config
+D:\VisualC Projects\Borderlands_DPS_Calculator\Borderlands_DPS_Calculator\bin\Debug\Borderlands_DPS_Calculator.exe
+D:\VisualC Projects\Borderlands_DPS_Calculator\Borderlands_DPS_Calculator\bin\Debug\Borderlands_DPS_Calculator.pdb
+D:\VisualC Projects\Borderlands_DPS_Calculator\Borderlands_DPS_Calculator\obj\Debug\Borderlands_DPS_Calculator.Form1.resources
+D:\VisualC Projects\Borderlands_DPS_Calculator\Borderlands_DPS_Calculator\obj\Debug\Borderlands_DPS_Calculator.Properties.Resources.resources
+D:\VisualC Projects\Borderlands_DPS_Calculator\Borderlands_DPS_Calculator\obj\Debug\Borderlands_DPS_Calculator.csproj.GenerateResource.Cache
+D:\VisualC Projects\Borderlands_DPS_Calculator\Borderlands_DPS_Calculator\obj\Debug\Borderlands_DPS_Calculator.exe
+D:\VisualC Projects\Borderlands_DPS_Calculator\Borderlands_DPS_Calculator\obj\Debug\Borderlands_DPS_Calculator.pdb
+D:\VisualC Projects\Borderlands_DPS_Calculator\Borderlands_DPS_Calculator\obj\Debug\Borderlands_DPS_Calculator.csprojResolveAssemblyReference.cache
